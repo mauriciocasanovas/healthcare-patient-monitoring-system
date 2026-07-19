@@ -104,13 +104,13 @@ Power BI is used to present the analysis through interactive charts and KPIs.
 
 ##### Dashboard Overview
 
-<img src="images/healthcare_patient_monitoring_report1.png" width="90%">
+<img src="images/healthcare_patient_monitoring_report1.png" width="100%">
 
 <br>
 
 ##### Regression Analysis
 
-<img src="images/healthcare_patient_monitoring_report2.png" width="90%">
+<img src="images/healthcare_patient_monitoring_report2.png" width="100%">
 
 </div>
 
