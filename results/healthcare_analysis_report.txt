@@ -1,0 +1,26 @@
+============================================================
+HEALTHCARE PATIENT MONITORING REPORT
+============================================================
+
+DATASET SUMMARY
+------------------------------------------------------------
+Total patients analyzed: 731
+Invalid records removed: 0
+Average age: 27.7 years
+Average temperature: 36.64 °C
+Fever cases detected: 5
+Patients with fever: 0.7%
+
+CORRELATION ANALYSIS
+------------------------------------------------------------
+Linear regression was applied to evaluate the relationship between cervical dilation and post-procedure temperature.
+
+Regression slope: 0.0063
+Regression intercept: 35.3375
+Correlation coefficient: 0.4156
+
+CLINICAL INTERPRETATION
+------------------------------------------------------------
+The percentage of fever cases remains within the expected range.
+
+============================================================
